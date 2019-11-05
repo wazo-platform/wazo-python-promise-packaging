@@ -1,10 +1,4 @@
-wazo-python-promise-packaging (2.2.0-2~wazo1) wazo-dev-buster; urgency=medium
-
-  * rebuild
-
- -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 05 Nov 2019 08:42:39 -0500
-
-wazo-python-promise-packaging (2.2.0-1) wazo-dev-buster; urgency=medium
+wazo-python-promise-packaging (2.2.0-1~wazo1) wazo-dev-buster; urgency=medium
 
   * Initial release
 
